@@ -75,17 +75,17 @@ Você pode ajustar os tempos e comportamentos no arquivo `config.py`:
 - Logs de Atividade: Todas as ações e erros são registrados no arquivo `discord_presence.log`.
 
 ## 🚀 Execução
-Após configurar corretamente o arquivo `config.py`, execute o script principal com:
+Após configurar corretamente o arquivo `richs.py`, execute o script principal com:
 
 ```bash
-python main.py
+python richs.py
 ```
 
 
 # 🗂 Estrutura do Projeto
 
 📂 RichPresence
-* ├── main.py            # Código principal e suas configurações
+* ├── richs.py            # Código principal e suas configurações
 * ├── discord_presence.log # Arquivo de logs
 * └── README.md          # Documentação do projeto
 
