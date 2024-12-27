@@ -1,7 +1,7 @@
 
 ![Static Badge](https://img.shields.io/badge/DISCORD-RICH_PRESENCE-blue)
 ![Static Badge](https://img.shields.io/badge/By%20Athos%20Dev-8A2BE2)
-
+ <img src="https://media.discordapp.net/attachments/1322004599758131200/1322005812578615357/py_115518.png?ex=676f4d5b&is=676dfbdb&hm=7d6f134bd2ec131ad487519dc02b7b1953b7bb05642bffe6a6ca5bcfe9e7a886&=&format=webp&quality=lossless" height="40" alt="python"  />
 
 # Rich Presence Personalizado para Discord
 
