@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 # Rich Presence Personalizado para Discord
 
 Este projeto é um **Rich Presence** customizável para Discord que exibe status dinâmico no seu perfil. 
