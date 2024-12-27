@@ -48,7 +48,6 @@ estados = {
 Atualize os links das suas redes sociais no dicionário `SOCIAL_LINKS:`
 
 ```python
-Copiar código
 SOCIAL_LINKS = {
     "Instagram": "https://www.instagram.com/SEU_USUARIO/",
     "Twitter": "https://x.com/SEU_USUARIO"
