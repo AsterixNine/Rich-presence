@@ -1,7 +1,7 @@
 
 ![Static Badge](https://img.shields.io/badge/DISCORD-RICH_PRESENCE-blue)
 ![Static Badge](https://img.shields.io/badge/By%20Athos%20Dev-8A2BE2)
-![Static Badge](https://img.shields.io/badge/Linguagem%20Python%20-e2dd2b)
+![Static Badge](https://img.shields.io/badge/%20Python%20-e2dd2b)
 
 ---
 
