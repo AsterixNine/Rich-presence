@@ -1,4 +1,5 @@
-<img src="https://github.com/simple-icons/simple-icons/blob/master/icons/lua.svg" height="40" alt="lua"  />
+# <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/lua.svg" height="40" alt="lua"  />
+<img alt="Static Badge" src="https://img.shields.io/badge/Discord-RichPresence-blue-">
 
 
 # Rich Presence Personalizado para Discord
