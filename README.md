@@ -95,7 +95,7 @@ python richs.py
 ---
 
 # Discord Rich Presence GUI
-
+# CODIGO AUTOMATICO E COM GUIA GRAFICA
 Uma interface gráfica moderna e amigável para configurar e gerenciar o **Discord Rich Presence**, desenvolvida com **ttkbootstrap** para a interface e **pypresence** para integração com o Discord. Este projeto é ideal para usuários que desejam personalizar sua presença no Discord de forma visual e intuitiva.
 
 ---
@@ -156,14 +156,14 @@ pip install ttkbootstrap pypresence
 ```
 
 # Como Usar
-## Clone o repositório:
+## baixe o programa:
 ```
-git clone https://github.com/AsterixNine/Rich-presence/tree/main
-cd rich_gui
+https://www.mediafire.com/file/574uccygoxlnxht/rich.exe/file
+cd rich
 ```
 # Executando o programa:
 
-double click em `rich_gui.exe`
+double click em `rich.exe`
 
 # Configure sua presença no painel esquerdo:
 
