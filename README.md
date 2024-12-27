@@ -5,7 +5,8 @@
 
 ---
 
-# Rich Presence Personalizado para Discord (CODIGO MANUAL E LIMITADO)
+# Rich Presence Personalizado para Discord 
+# CODIGO MANUAL E LIMITADO
 
 Este projeto é um **Rich Presence** customizável para Discord que exibe status dinâmico no seu perfil. 
 
