@@ -65,9 +65,9 @@ images = ["sua_imagem1", "sua_imagem2", "sua_imagem3"]
 ## 🔧 Configurações Adicionais
 Você pode ajustar os tempos e comportamentos no arquivo `config.py`:
 
-- update_interval: Intervalo de atualização (padrão: 5 segundos)
-- session_duration: Duração da sessão (padrão: 300 segundos ou 5 minutos)
-- reconnect_delay: Tempo de reconexão em caso de falha (padrão: 3 segundos)
+- `update_interval`: Intervalo de atualização (padrão: 5 segundos)
+- `session_duration`: Duração da sessão (padrão: 300 segundos ou 5 minutos)
+- `reconnect_delay`: Tempo de reconexão em caso de falha (padrão: 3 segundos)
 
 ## 🌟 Recursos Adicionais
 - Rotação Aleatória: Os estados e imagens mudam aleatoriamente para maior dinamicidade.
