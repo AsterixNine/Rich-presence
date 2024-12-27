@@ -3,10 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/By%20Athos%20Dev-8A2BE2)
 
 ---
-# Feito em:
 <img src="https://media.discordapp.net/attachments/1322004599758131200/1322005812578615357/py_115518.png?ex=676f4d5b&is=676dfbdb&hm=7d6f134bd2ec131ad487519dc02b7b1953b7bb05642bffe6a6ca5bcfe9e7a886&=&format=webp&quality=lossless" height="40" alt="python"  />
-
-# IDE:
 <img src="https://media.discordapp.net/attachments/1322004599758131200/1322007314223464508/visualstudio_icon_188909.png?ex=676f4ec1&is=676dfd41&hm=50c85c5118d8271079e5f00de7a0ed15597500104f87ce659761661f87fb8537&=&format=webp&quality=lossless" height="40" alt="python"  />
 # Rich Presence Personalizado para Discord
 
