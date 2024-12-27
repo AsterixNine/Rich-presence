@@ -7,6 +7,13 @@
 
 # Rich Presence Personalizado para Discord 
 # CODIGO MANUAL E LIMITADO
+- Arquivo: `.py`
+- Tamanho: `3.2KB`
+- Plataforma: `Windows`
+- Linguagem: `Python`
+- Extras: Permito a modificação do arquivo `.py`, porém não permito a venda do código ou sua apropriação indevida sem a devida atribuição de créditos.  
+Em caso de violação de qualquer direito, tomarei as medidas legais necessárias.
+
 
 Este projeto é um **Rich Presence** customizável para Discord que exibe status dinâmico no seu perfil. 
 
@@ -96,6 +103,16 @@ python richs.py
 
 # Discord Rich Presence GUI
 # CODIGO AUTOMATICO E COM GUIA GRAFICA
+## Notas:
+- Arquivo: `.exe`
+- Tamanho: `27.8MB`
+- Plataforma: `Windows`
+- Linguagem: `Python`
+- Extras: Não permito a quebra de código, obfuscação ou redistribuição do código para revenda ou qualquer outro uso próprio. Em caso de qualquer incidente relacionado a isso, tomarei as medidas legais adequadas.
+
+
+
+
 Uma interface gráfica moderna e amigável para configurar e gerenciar o **Discord Rich Presence**, desenvolvida com **ttkbootstrap** para a interface e **pypresence** para integração com o Discord. Este projeto é ideal para usuários que desejam personalizar sua presença no Discord de forma visual e intuitiva.
 
 ---
@@ -156,11 +173,12 @@ pip install ttkbootstrap pypresence
 ```
 
 # Como Usar
-## baixe o programa:
+## baixe o Programa:
 ```
 https://www.mediafire.com/file/574uccygoxlnxht/rich.exe/file
 cd rich
 ```
+- nota: infelizmente tive que upar no mediafire porque o github não deixa eu coloca arquivos a cima de 25MB no site... Triste isso
 # Executando o programa:
 
 double click em `rich.exe`
