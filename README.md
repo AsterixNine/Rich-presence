@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+![Static Badge](https://github.com/simple-icons/simple-icons/blob/master/icons/lua.svg)
 
 
 # Rich Presence Personalizado para Discord
