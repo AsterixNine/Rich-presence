@@ -159,7 +159,7 @@ pip install ttkbootstrap pypresence
 # Como Usar
 ## Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/rich_gui.git
+git clone https://github.com/AsterixNine/Rich-presence/tree/main
 cd rich_gui
 ```
 # Executando o programa:
