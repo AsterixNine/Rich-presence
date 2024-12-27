@@ -79,9 +79,9 @@ python main.py
 # 🗂 Estrutura do Projeto
 
 📂 RichPresence
-├── main.py            # Código principal e suas configurações
-├── discord_presence.log # Arquivo de logs
-└── README.md          # Documentação do projeto
+* ├── main.py            # Código principal e suas configurações
+* ├── discord_presence.log # Arquivo de logs
+* └── README.md          # Documentação do projeto
 
 # 📄 Licença
 **Este projeto é distribuído sob a licença MIT.**
