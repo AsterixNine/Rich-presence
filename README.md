@@ -163,7 +163,7 @@ cd rich_gui
 ```
 # Executando o programa:
 
-double clicl em `rich_gui.exe`
+double click em `rich_gui.exe`
 
 # Configure sua presença no painel esquerdo:
 
