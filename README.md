@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/DISCORD-RICH_PRESENCE-blue)
 ![Static Badge](https://img.shields.io/badge/By%20Athos%20Dev-8A2BE2)
 
-<img src="https://media.discordapp.net/attachments/1322004599758131200/1322007314223464508/visualstudio_icon_188909.png?ex=676f4ec1&is=676dfd41&hm=50c85c5118d8271079e5f00de7a0ed15597500104f87ce659761661f87fb8537&=&format=webp&quality=lossless" height="100" alt="python"  /><img src="https://media.discordapp.net/attachments/1322004599758131200/1322007278584332309/discord_icon_188896.png?ex=676f4eb8&is=676dfd38&hm=d3e1749c7d687f47aa0c795da063c8756dd812ef48f942b9fa8ede76191968ed&=&format=webp&quality=lossless" height="100" alt="python"  />
+<img src="https://media.discordapp.net/attachments/1322004599758131200/1322007314223464508/visualstudio_icon_188909.png?ex=676f4ec1&is=676dfd41&hm=50c85c5118d8271079e5f00de7a0ed15597500104f87ce659761661f87fb8537&=&format=webp&quality=lossless" height="50" alt="python"  /><img src="https://media.discordapp.net/attachments/1322004599758131200/1322007278584332309/discord_icon_188896.png?ex=676f4eb8&is=676dfd38&hm=d3e1749c7d687f47aa0c795da063c8756dd812ef48f942b9fa8ede76191968ed&=&format=webp&quality=lossless" height="50" alt="python"  />
 
 
 
