@@ -90,10 +90,9 @@ python richs.py
 * ├── discord_presence.log # Arquivo de logs
 * └── README.md          # Documentação do projeto
 
-# 📄 Licença
-**Este projeto é distribuído sob a licença MIT.**
-## Aproveite seu Rich Presence personalizado no Discord! 🎉
 
+
+---
 
 # Discord Rich Presence GUI
 
@@ -180,6 +179,7 @@ double clicl em `rich_gui.exe`
 * Biblioteca usada: ttkbootstrap.
 
 
-# Licença
-Este projeto está licenciado sob a `MIT License`. Veja o arquivo LICENSE para mais informações.
+# 📄 Licença
+**Este projeto é distribuído sob a licença MIT.**
+## Aproveite seu Rich Presence personalizado no Discord! 🎉
 
