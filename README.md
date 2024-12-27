@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/discord-rich_presence-blue-)
+![Static Badge](https://img.shields.io/badge/discord-rich_presence-blue)
 
 
 # Rich Presence Personalizado para Discord
