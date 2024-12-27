@@ -1,4 +1,4 @@
-![Static Badge](https://github.com/simple-icons/simple-icons/blob/master/icons/lua.svg) height="40"
+<img src="https://github.com/simple-icons/simple-icons/blob/master/icons/lua.svg" height="40" alt="lua"  />
 
 
 # Rich Presence Personalizado para Discord
