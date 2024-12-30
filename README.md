@@ -174,8 +174,9 @@ pip install ttkbootstrap pypresence
 
 # Como Usar
 ## baixe o Programa:
+## https://www.mediafire.com/file/574uccygoxlnxht/rich.exe/file
 ```
-https://www.mediafire.com/file/574uccygoxlnxht/rich.exe/file
+
 cd rich
 ```
 - nota: infelizmente tive que upar no mediafire porque o github não deixa eu coloca arquivos a cima de 25MB no site... Triste isso
